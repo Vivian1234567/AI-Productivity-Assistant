@@ -47,5 +47,5 @@ AI-generated responses may contain inaccurate information. Always verify ticket 
 
 1. Clone the repository
 ```bash
-[git clone (https://github.com/Vivian1234567/AI-Productivity-Assistant/blob/main/README.md)
+[git clone:https://github.com/Vivian1234567/AI-Productivity-Assistant/blob/main/README.md
 
