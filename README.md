@@ -1,46 +1,51 @@
-# AI-Productivity-Assistant
-AI productivity dashboard Capaciti
-# FlowAI - AI Workplace Productivity Assistant
+# ServiceDesk AI - IT Support Co-Pilot
 
-A modern, responsive SaaS dashboard that helps professionals automate daily workplace tasks using AI.
+A modern, responsive SaaS dashboard that helps IT Support Technicians and Helpdesk staff automate daily support tasks using AI.
 
-This project was built as part of the **Google AI Essentials** course.
+Built as part of the **Google AI Essentials** final project using Lovable AI.
 
 ### 🚀 Live Demo
-[Your Lovable Link Here] 
+[Paste your Lovable link here] e.g., https://servicedesk-ai-copilot.lovable.app
+
 ### ✨ Features
 
-- **Smart Email Generator:** Generate professional emails with different tones. Editable outputs.
-- **Meeting Notes Summarizer:** Paste transcripts and get Summary, Key Points & Action Items instantly.
-- **AI Task Planner:** Turn your goals into a prioritized task list with deadlines.
-- **AI Research Assistant:** Get structured insights and sources on any topic.
-- **AI Chatbot Interface:** ChatGPT-style assistant for workplace queries.
+- **Smart Email Generator:** Generate ticket updates, password reset confirmations, downtime notices, escalations, and resolution emails. Supports multiple tones and ticket numbers like INC123456.
+- **Ticket Notes Summarizer:** Paste raw support call notes and get Executive Summary, Root Cause, Solution Steps, and Next Actions instantly.
+- **AI Task Planner:** Plan your 08:00-17:00 support shift with priority-based scheduling (P1 System Down = Red, P2 User Issue = Orange, P3 Request = Green).
+- **AI Knowledge Base Assistant:** Search troubleshooting guides for common issues like Outlook sync errors, printer offline, and blue screen errors with step-by-step fixes.
+- **AI Chat Assistant:** Floating ChatGPT-style assistant for instant IT support help.
 
-### 🎨 Design
+### 🎨 Design & Branding
 
-- Clean, modern SaaS UI similar to Notion / Linear
-- Dark sidebar navigation (#0A2540) with blue accents (#2563EB)
-- Fully responsive - works on mobile, tablet & desktop
-- Built with Shadcn UI + Tailwind CSS
+- **Colors:** Deep Navy Sidebar #0F172A, Electric Blue Accent #3B82F6, Background #F8FAFC
+- **Style:** Professional SaaS inspired by Linear and Stripe
+- **UI:** Built with Shadcn UI + Tailwind CSS + Lucide Icons
+- **Responsive:** Fully works on mobile, tablet, and desktop with collapsible sidebar
+- **UX:** Hover effects, rounded cards (12px), soft shadows, loading animations "AI is troubleshooting...", and toast "Copied to clipboard!"
 
 ### 🛠️ Tech Stack
 
 - React + TypeScript
 - Tailwind CSS
-- Lovable AI
-- Lucide Icons
+- Shadcn UI Components
+- Lovable AI Platform
+- Lucide React Icons
 
 ### ⚠️ Responsible AI Disclaimer
 
-AI-generated content may be inaccurate or incomplete. All outputs should be reviewed and verified by a human before use in a professional setting. This tool is designed to assist, not replace, human judgment.
+AI-generated responses may contain inaccurate information. Always verify ticket numbers, user names, and technical steps before sending to users. Do not share private passwords or confidential user data. This tool is designed to assist, not replace, human IT support judgment. Human verification is required.
 
 ### 👤 Author
 
-Built by Amukelani - Aspiring Business Analyst & Software Developer
-Project for Google AI Essentials Final Module
+**Amukelani**
+- BSc Information Technology in Business Systems
+- 2 Years Experience as Data Coordinator @ Wits Health Consortium (SQL, Python for database management)
+- 1 Year Experience as Junior IT Support
+- Skills: SQL, Python, Java, HTML, Database Management, IT Support, Troubleshooting
 
-### 📝 How to Use
+### 📝 How to Use Locally
 
-1. Clone the repo
-2. npm install
-3. npm run dev
+1. Clone the repository
+```bash
+git clone [your-repo-link]
+
