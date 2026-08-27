@@ -5,7 +5,7 @@ A modern, responsive SaaS dashboard that helps IT Support Technicians and Helpde
 Built as part of the **Google AI Essentials** final project using Lovable AI.
 
 ### 🚀 Live Demo
-[Paste your Lovable link here] e.g., https://servicedesk-ai-copilot.lovable.app
+https://lovable.dev/projects/f3dec8ae-3ff0-41bd-b796-77259969ebc8?magic_link=mc_039bf62c-7542-4707-a420-2d83dcfaebd8
 
 ### ✨ Features
 
